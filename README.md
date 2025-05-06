@@ -1,4 +1,4 @@
-# Basic-data-anylysis_Week-7_python
+# Basic-data-analysis_Week-7_python
 # Iris Analysis - Data Analysis and Visualization
 
 ## Description
